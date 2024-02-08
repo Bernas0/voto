@@ -1,0 +1,1 @@
+ let resposta = document.getElementById('resposta')
